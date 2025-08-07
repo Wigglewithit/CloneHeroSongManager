@@ -1,4 +1,4 @@
-# Clone Hero Song Manager 🎸
+# Clone Hero Song Manager 
 
 A Windows GUI app that watches a folder for `.zip` files containing Clone Hero songs. It auto-extracts and moves them to your Clone Hero Songs folder.
 
